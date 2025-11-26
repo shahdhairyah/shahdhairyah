@@ -1,161 +1,130 @@
 <div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Dhairya%20Shah&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Creative%20Mind&descAlignY=55&descSize=25" width="100%" alt="Header" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Building+High-Level+Web+Apps+💻;Exploring+8085+Microprocessors+⚙️;Capturing+Live+Moments+on+@dhairya.live+📸;Debugging+faster+than+ordering+food+⚡" alt="Typing SVG" />
+  </a>
+
+  <br />
+
+  <p>
+    <a href="https://instagram.com/shahdhairyah" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-Main-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://instagram.com/dhairya.live" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-Concerts_%26_Live-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/shahdhairyah" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-ShahDhairyaH-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/shahdhairya12" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-ShahDhairya12-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+
+</div>
+
+<br />
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <ul>
+        <li>🔭 I’m currently working on <strong>High-Level Web Applications & React Projects</strong></li>
+        <li>🌱 I’m currently learning <strong>Advanced System Design & Microprocessors (8085)</strong></li>
+        <li>👯 I’m looking to collaborate on <strong>Open Source Projects</strong></li>
+        <li>📸 Hobby: I run <strong>@dhairya.live</strong> capturing live concerts.</li>
+        <li>⚡ Fun fact: <strong>I can debug code faster than I can decide what to eat.</strong></li>
+        <li>📫 Reach me at: <strong>shahdhairyah on GitHub</strong></li>
+      </ul>
+      
+      <br />
+      
+      <h3>⚡ Recent Activity & Focus</h3>
+      <table>
+        <tr>
+            <td width="30%"><strong>🎭 Portfolio</strong></td>
+            <td>Building a Website for <strong>Yash Soni</strong> (Actor Portfolio)</td>
+        </tr>
+        <tr>
+            <td width="30%"><strong>🎮 Game Dev</strong></td>
+            <td>Creating a High-Logic <strong>2048 Game Clone</strong></td>
+        </tr>
+        <tr>
+            <td width="30%"><strong>🎥 Media</strong></td>
+            <td>Uploading Live Concert Reels on <strong>@dhairya.live</strong></td>
+        </tr>
+      </table>
+    </td>
+    
+    <td width="40%" valign="top" align="center">
+      <h3>📊 GitHub Analytics</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=shahdhairyah&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117" width="100%" />
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahdhairyah&theme=radical&hide_border=true&background=0d1117" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+  <h3>🛠️ The Arsenal (Tech Stack)</h3>
   
-# 👋 Hi, I'm Dhairya Shah
-
-### Full-Stack Developer | Open Source Enthusiast | Concert Photographer
-
-[![GitHub followers](https://img.shields.io/github/followers/shahdhairyah?label=Follow&style=social)](https://github.com/shahdhairyah)
-[![Instagram](https://img.shields.io/badge/Instagram-@dhairya.live-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/dhairya.live)
-[![Profile Views](https://komarev.com/ghpvc/?username=shahdhairyah&color=blueviolet&style=flat)](https://github.com/shahdhairyah)
-
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap&perline=6" alt="Frontend" />
+    </a>
+    <br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,nodejs,express,java,mysql,mongo&perline=6" alt="Backend" />
+    </a>
+    <br/>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=github,git,vscode,postman,figma,vercel&perline=6" alt="Tools" />
+    </a>
+  </p>
 </div>
 
----
+<br />
 
-## 🚀 About Me
-
-```javascript
-const dhairya = {
-    location: "Ahmedabad, Gujarat, India",
-    currentFocus: ["High-Level Web Applications", "React Projects", "System Design"],
-    learning: ["Advanced System Design", "Microprocessors (8085)", "Scalable Architectures"],
-    hobbies: ["Live Concert Photography", "Open Source Contributions", "Debugging Mysteries"],
-    funFact: "I can debug code faster than I can decide what to eat 🍕",
-    motto: "Code is like humor. When you have to explain it, it's bad."
-};
-```
-
-- 🔭 Currently working on **High-Level Web Applications & React Projects**
-- 🌱 Learning **Advanced System Design & Microprocessor Architecture (8085)**
-- 👯 Open to collaborate on **Open Source Projects**
-- 📸 Running [@dhairya.live](https://instagram.com/dhairya.live) - capturing the energy of live concerts
-- ⚡ Fun fact: **I debug faster than I decide dinner**
-- 💬 Ask me about **React, Node.js, System Design, or Concert Photography**
-- 📫 Reach me: **[shahdhairyah](https://github.com/shahdhairyah)**
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
+<h3 align="left">📈 Most Used Languages</h3>
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahdhairyah&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdhairyah&layout=compact&langs_count=8&theme=radical"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdhairyah&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117" width="80%" />
 </div>
 
-<div align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahdhairyah&theme=radical)](https://git.io/streak-stats)
+<br />
 
+<h3 align="left">🏆 Achievements</h3>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shahdhairyah&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true" width="100%" />
+  </a>
 </div>
 
----
+<br />
 
-## 🏆 GitHub Trophies
-
+<h3 align="left">🐍 Contribution Graph</h3>
 <div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=shahdhairyah&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahdhairyah&theme=rogue" width="100%" />
 </div>
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-  [![Dhairya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahdhairyah&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+<br />
+<br />
 
 <div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/shahdhairyah/shahdhairyah/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🎯 Current Projects & Activities
-
-### 🚀 Active Projects
-- **🎭 Actor Portfolio Website** - Building a professional portfolio for Yash Soni
-- **🎮 2048 Game Clone** - Creating a high-logic implementation of the classic puzzle game
-- **📸 @dhairya.live** - Continuously uploading live concert reels and photography content
-
-### 🔥 Recent Highlights
-- ✨ Developing scalable web applications with React and Node.js
-- 🌟 Contributing to open-source projects
-- 📷 Capturing live moments from concerts and events
-- 🧠 Studying advanced system design patterns and microprocessor architecture
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-shahdhairyah-181717?style=for-the-badge&logo=github)](https://github.com/shahdhairyah)
-[![Instagram](https://img.shields.io/badge/Instagram-@dhairya.live-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhairya.live)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahdhairyah)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-⭐️ From [shahdhairyah](https://github.com/shahdhairyah) | Made with ❤️ and ☕
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+    
+    <br />
+    
+    <p>
+        <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+    </p>
+    
+    <img src="https://komarev.com/ghpvc/?username=shahdhairyah&label=Profile%20Views&color=blueviolet&style=flat" alt="Views" />
 </div>
