@@ -45,7 +45,7 @@
 
 ## 👋 Welcome to My Digital Space!
 
-I'm **Dhairya Shah**, a passionate **Full Stack Developer** from India who loves building high-performance web applications, exploring system architecture, and capturing life's creative moments. With expertise in modern web technologies and a keen interest in low-level programming, I'm constantly pushing the boundaries of what's possible in tech.
+I'm **Shah Dhairya**, a passionate **Full Stack Developer** from India who loves building high-performance web applications, exploring system architecture, and capturing life's creative moments. With expertise in modern web technologies and a keen interest in low-level programming, I'm constantly pushing the boundaries of what's possible in tech.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="Coding" />
