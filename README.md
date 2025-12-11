@@ -292,24 +292,6 @@ Other        ░░░░░░░░░░░░░░░░░░░░░░�
 
 <br />
 
-## 💡 Tech Insights & Blog
-
-<div align="center">
-
-### Latest Articles
-- 📝 [Building Scalable React Applications](#)
-- 📝 [Understanding Microprocessor Architecture](#)
-- 📝 [Modern Web Development Best Practices](#)
-- 📝 [Photography & Web Design Fusion](#)
-
-</div>
-
-<br />
-
----
-
-<br />
-
 ## ☕ Support My Work
 
 <div align="center">
