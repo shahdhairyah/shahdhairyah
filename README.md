@@ -97,7 +97,7 @@ const dhairya = {
 
 <table align="center" style="border: 2px solid #FF0080; border-radius: 10px;">
   <tr>
-    <td width="50%" align="center">
+    
       
 ### 💼 Professional Goals
 ✅ Building scalable, production-ready web applications  
@@ -106,7 +106,7 @@ const dhairya = {
 ✅ Contributing to high-impact open-source projects  
 ✅ Creating innovative digital experiences  
 
-    </td>
+    
     <td width="50%" align="center">
 
 ### 🚀 Active Projects
