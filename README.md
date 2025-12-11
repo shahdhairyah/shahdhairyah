@@ -107,7 +107,7 @@ const dhairya = {
 ✅ Creating innovative digital experiences  
 
     
-    <td width="50%" align="center">
+    
 
 ### 🚀 Active Projects
 🎭 **Yash Soni Portfolio** - Actor portfolio website  
@@ -116,7 +116,7 @@ const dhairya = {
 ⚡ **Side Projects** - Various experimental projects  
 💡 **Learning Path** - Advanced system design patterns  
 
-    </td>
+    
   </tr>
 </table>
 
