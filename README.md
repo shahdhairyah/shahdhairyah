@@ -18,8 +18,6 @@ I'm a Computer Engineering student at **A.D. Patel Institute of Technology (ADIT
 - 💼 Full-Stack Developer — React.js · PHP · MySQL
 - 🏢 Affiliated with **InnoBrain Technologies**
 - 🏆 **Gujarat Gaurav Award '26** recipient
-- 📖 Preparing for **GATE CSE 2028**
-- 🌐 Working across Gujarati, Hindi, and English
 
 <br/>
 
